@@ -1,3 +1,5 @@
+
+
 public class StringRev {
 
 	String s= new String("Hello my name is Jose M Varghese");
@@ -21,6 +23,7 @@ public class StringRev {
 	    StringRev rev= new StringRev();
 		int p=rev.stringleg();
 		rev.revstring(p); 
+		
 	}
 
 }
