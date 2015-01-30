@@ -31,6 +31,7 @@ public class sort {
 			}
 			//System.out.println("--\n"+sorting.length);	
 		//	sorting[10]=1;
+			
 		//	System.out.println("----------"+sorting[10]);
 
 			

@@ -13,8 +13,7 @@ public class Multiplication {
 	public void mult()
 	{
 		System.out.println("-----------------------");
-		System.out.println("-----------Matrix Multiplication------------");
-		
+		System.out.println("-----------Matrix Multiplication------------");	
 		System.out.println("Enter the rows and colums of first matrix ");
 		Scanner in = new Scanner(System.in);
 		int m=in.nextInt();
