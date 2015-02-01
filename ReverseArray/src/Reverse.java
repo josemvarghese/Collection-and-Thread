@@ -27,8 +27,8 @@ public class Reverse {
 		rev.Reverseing();
 		stringArray str=new stringArray();
 		str.StringAry();
-		Multiplication mult=new Multiplication();
-		mult.mult();
+		//Multiplication mult=new Multiplication();
+		//mult.mult();
 		sort srt=new sort();
 		srt.srting();
 		
