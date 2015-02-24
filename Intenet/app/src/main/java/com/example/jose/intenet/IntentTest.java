@@ -20,6 +20,7 @@ public class IntentTest extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.intentex);
       Apps=(Button)findViewById(R.id.btApps);
+
        Apps.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
